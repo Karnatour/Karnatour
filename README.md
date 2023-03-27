@@ -1,16 +1,23 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=300&section=header&text=Welcome%20on%20%my%20profile!&animation=twinkling&fontAlign=40&fontSize=50)
+### I'm Vojta, a high school student 👨‍💻 studying on [SPŠE Havířov](https://github.com/spsehavirov) 🚀 
+  
 
-<!--
-**Karnatour/Karnatour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on RAL Game Engine  
+  
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning C++  
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✔️Spaghetti code🍝  
+  
+
+-  ❌Apple 🍎  
+  
+
+- 📫Contact me on vojtasokala@gmail.com or on discord Karnatour#8596  
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,php,mariadb)](https://skillicons.dev)
+<br></br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karnatour&theme=omni&hide_border=true" align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Karnatour&theme=omni&show_icons=true&hide_border=true">
+ 
