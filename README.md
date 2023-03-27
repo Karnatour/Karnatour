@@ -16,7 +16,7 @@
 
 - 📫Contact me on vojtasokala@gmail.com or on discord Karnatour#8596  
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,php,mariadb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,php,cmake)](https://skillicons.dev)
 <br></br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karnatour&theme=omni&hide_border=true" align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Karnatour&theme=omni&show_icons=true&hide_border=true">
