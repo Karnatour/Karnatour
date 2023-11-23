@@ -2,7 +2,7 @@
 ### I'm Vojta, a high school student 👨‍💻 studying on [SPŠE Havířov](https://github.com/spsehavirov) 🚀 
   
 
-- 🔭 I’m currently working on ZuziMAX
+- 🔭 I’m currently working on Maturita ![Clueless](https://cdn.frankerfacez.com/emoticon/670425/1)
   
 
 - 🌱 I’m currently learning C++  
