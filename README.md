@@ -11,9 +11,6 @@
 - ✔️Spaghetti code🍝  
   
 
--  ❌Apple 🍎  
-  
-
 - 📫Contact me on vojtasokala@gmail.com or on discord Karnatour#8596  
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,php,cmake)](https://skillicons.dev)
